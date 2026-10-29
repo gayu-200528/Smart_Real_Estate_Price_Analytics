@@ -1,14 +1,14 @@
-# 🏠 Smart Real-Estate Price Analytics
+#  Smart Real-Estate Price Analytics
 
 **End-to-End Data Analytics Project using Python**
 
-# 📌 Project Overview
+#  Project Overview
 
 - This project focuses on analyzing real-estate housing data to identify the key factors influencing house prices.
 - It demonstrates an end-to-end Data Analytics workflow, including data cleaning, missing value treatment, exploratory data analysis (EDA), data visualization, and business insight generation using Python.
 - The dataset contains real-world issues such as missing values and outliers, making this project highly relevant for industry-level data analyst roles.
 
-# 🎯 Project Objectives
+#  Project Objectives
 
 - Clean and preprocess raw housing data
 - Handle missing values using appropriate statistical methods
@@ -17,7 +17,7 @@
 - Identify price-driving factors in the housing market
 - Generate actionable business insights
 
-# 🛠️ Skills & Tools Used (ATS Optimized)
+#  Skills & Tools Used (ATS Optimized)
 
 - Python
 - NumPy
@@ -30,7 +30,7 @@
 - Seaborn
 - Business Analytics
 
-# 📂 Dataset Information
+#  Dataset Information
 
 **Dataset Name:** King County House Sales Dataset (with NaN values)
 **Rows:** 21,613
@@ -43,7 +43,7 @@
 **Location:** zipcode, waterfront, view
 **Renovation & construction**: yr_built, yr_renovated
 
-# 🔍 Project Workflow
+#  Project Workflow
 ## 1️⃣ Data Loading & Understanding
 
 - Loaded dataset using Pandas
@@ -105,7 +105,7 @@ a. Matplotlib
 b. Seaborn
 - The dashboard clearly communicates insights for non-technical stakeholders.
 
-## 📊 Key Insights
+##  Key Insights
 
 1. Living area (sqft_living) is the strongest price driver
 2. Construction grade significantly impacts house prices
@@ -113,7 +113,7 @@ b. Seaborn
 4. Renovated and waterfront properties form premium segments
 5. Lot size alone has limited impact on pricing
 
-## 📈 Business Recommendations
+##  Business Recommendations
 
 1. Focus on improving construction quality rather than increasing bedroom count
 2. Renovation offers strong return on investment
